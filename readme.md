@@ -22,7 +22,9 @@ Acesse a pasta do projeto:
 Execute o script:
 
     ```bash
-    python contador_palavras.py</p>
+    python contador_palavras.py
+    
+  </p>
 
 ### 📊 Exemplo de saída
 
