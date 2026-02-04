@@ -53,3 +53,8 @@ divertido.: 1
 
 ### 📈 Próximos passos
 
+<p>Permitir leitura de arquivos externos .txt.<br>
+
+Ignorar pontuação para melhorar a contagem.<br>
+
+Ordenar as palavras por frequência.</p>
