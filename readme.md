@@ -29,17 +29,18 @@ Execute o script:
 ### 📊 Exemplo de saída
 
 <h2 align="left">Se o texto for:
-Python é incrível. Python é poderoso. Aprender Python é divertido.
+Python é incrível. Python é poderoso. Aprender Python é divertido.<br>
 
-O programa exibirá:
-Contagem de palavras:
+O programa exibirá:<br>
+Contagem de palavras:<br>
 
-Python: 3
-é: 3
-incrível.: 1
-poderoso.: 1
-Aprender: 1
-divertido.: 1</h2>
+Python: 3<br>
+é: 3<br>
+incrível.: 1<br>
+poderoso.: 1<br>
+Aprender: 1<br>
+divertido.: 1
+</h2>
 
 ### 📈 Próximos passos
  * Permitir leitura de arquivos externos .txt.
