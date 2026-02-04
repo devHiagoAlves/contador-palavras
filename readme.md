@@ -20,6 +20,7 @@ Acesse a pasta do projeto:
     cd contador-palavras
 
 Execute o script:
+
     ```bash
     python contador_palavras.py</p>
 
