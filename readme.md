@@ -30,19 +30,18 @@ Execute o script:
 
 ### 📊 Exemplo de saída
 
-<h2 align="left">Se o texto for:
-Python é incrível. Python é poderoso. Aprender Python é divertido.<br>
+<h3 align="left">Se o texto for:</h3>
+<p>Python é incrível. Python é poderoso. Aprender Python é divertido.<br>
 
 O programa exibirá:<br>
 Contagem de palavras:<br>
-
 Python: 3<br>
 é: 3<br>
 incrível.: 1<br>
 poderoso.: 1<br>
 Aprender: 1<br>
 divertido.: 1
-</h2>
+</p>
 
 ### 📈 Próximos passos
  * Permitir leitura de arquivos externos .txt.
