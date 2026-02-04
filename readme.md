@@ -17,11 +17,13 @@ git clone https://github.com/devHiagoAlves/contador-palavras.git (github.com in 
 Acesse a pasta do projeto:
               
     ```bash
+    
     cd contador-palavras
 
 Execute o script:
 
     ```bash
+    
     python contador_palavras.py
     
   </p>
